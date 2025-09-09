@@ -1,7 +1,7 @@
-# Merhaba Dünya C++ Programı
+# Merhaba DÃ¼nya C++ ProgramÄ±
 
 
-Bu, basit bir "Merhaba Dünya" C++ programıdır.
+Bu, basit bir "Merhaba DÃ¼nya" C++ programÃ½dÃ½r.
 
 
 ```cpp
@@ -9,7 +9,7 @@ Bu, basit bir "Merhaba Dünya" C++ programıdır.
 
 int main()
 {
-    std::cout << "Merhaba Dünya\n";
+    std::cout << "Merhaba DÃ¼nya\n";
 	return 0;
 }
 
