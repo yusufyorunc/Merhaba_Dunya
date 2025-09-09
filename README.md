@@ -1,7 +1,7 @@
 # Merhaba Dünya C++ Programı
 
 
-Bu, basit bir "Merhaba Dünya" C++ programýdýr.
+Bu, basit bir "Merhaba Dünya" C++ programıdır.
 
 
 ```cpp
